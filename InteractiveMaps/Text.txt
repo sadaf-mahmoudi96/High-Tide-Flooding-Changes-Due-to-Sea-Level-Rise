@@ -1,0 +1,6 @@
+This folder contains the Interactive Maps, which include the following resources:
+
+1. Tidal Levels and SLR Data: High-resolution datasets providing values for tidal levels and sea-level rise under various scenarios.
+2. HTF Threshold Surpassing Hours: Information on the number of hours tidal levels exceed high-tide flooding (HTF) thresholds.
+
+The interactive maps feature a drop-down menu, allowing users to select their desired scenario and year, and navigate the map seamlessly to explore the data.
